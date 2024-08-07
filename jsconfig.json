@@ -1,0 +1,8 @@
+{
+    "compilarOptions":{
+        "baseUrl": "src"
+    },
+    "include": [
+        "src"
+    ]
+}
